@@ -54,51 +54,51 @@ demo video for this Project: -> https://drive.google.com/file/d/1tc7loq4y9nDsK2w
 
 ## Software and Tools Required:
 
-1. *Git:*
-   - Download link: [Git](https://git-scm.com/downloads)
+### 1. *Git:*
+   - Download link: [Git] -> (https://git-scm.com/downloads)
 
-2. *Java JDK 17+:*
-   - Download link: [Java SE Development Kit 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+### 2. *Java JDK 17+:*
+   - Download link: [Java SE Development Kit 17] -> (https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 
-3. *Eclipse EE:*
-   - Download link: [Eclipse IDE for Enterprise Java Developers](https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers)
+### 3. *Eclipse EE:*
+   - Download link: [Eclipse IDE for Enterprise Java Developers] -> (https://www.eclipse.org/downloads/packages/release/2022-03/r/eclipse-ide-enterprise-java-and-web-developers)
 
-4. *Apache Maven:*
-   - Download link: [Apache Maven](https://maven.apache.org/download.cgi)
+### 4. *Apache Maven:*
+   - Download link: [Apache Maven] -> (https://maven.apache.org/download.cgi)
 
-5. *Tomcat v9.0+:*
-   - Download link: [Apache Tomcat 9](https://tomcat.apache.org/download-90.cgi)
+### 5. *Tomcat v9.0+:*
+   - Download link: [Apache Tomcat 9] -> (https://tomcat.apache.org/download-90.cgi)
 
-6. *MySQL Server:*
-   - Download link: [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+### 6. *MySQL Server:*
+   - Download link: [MySQL Community Server] -> (https://dev.mysql.com/downloads/mysql/)
 
-7. *MySQL Workbench:*
-   - Download link: [MySQL Workbench](https://www.mysql.com/products/workbench/)
+### 7. *MySQL Workbench:*
+   - Download link: [MySQL Workbench] -> (https://www.mysql.com/products/workbench/)
 
 
-*Generating Gmail App Password for Mailing Functionalities:*
+## *Generating Gmail App Password for Mailing Functionalities:*
 
-1. *Create or Login to Gmail Account:*
+### 1. *Create or Login to Gmail Account:*
    - Open any browser and create a new Gmail account or login to an existing one.
 
-2. *Enable 2-Step Verification:*
-   - Go to [Google Account Security Settings](https://myaccount.google.com/security).
+### 2. *Enable 2-Step Verification:*
+   - Go to [Google Account Security Settings] -> (https://myaccount.google.com/security).
    - Check if 2-step verification is enabled. If not, enable it.
 
-3. *Generate App Password:*
-   - Visit [App Passwords Settings](https://myaccount.google.com/apppasswords).
+### 3. *Generate App Password:*
+   - Visit [App Passwords Settings] -> (https://myaccount.google.com/apppasswords).
    - Enter your password if prompted.
 
-4. *Select App:*
+### 4. *Select App:*
    - In the "Select an App" section, choose "Other (custom name)".
    - Enter any name for identification purposes.
 
-5. *Generate Password:*
+### 5. *Generate Password:*
    - Click on "Generate" to create a unique 16-digit app password.
 
-6. *Save Password:*
+### 6. *Save Password:*
    - Copy the generated app password and save it securely for future configurations.
 
-7. *Done:*
+### 7. *Done:*
    - Your app password is generated. Proceed with importing the project.
    - Remember not to share this app password with anyone.
