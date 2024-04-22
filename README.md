@@ -104,5 +104,5 @@ demo video for this Project: -> https://drive.google.com/file/d/1tc7loq4y9nDsK2w
    - Remember not to share this app password with anyone.
 
 # Project By
-   ## Gowtham G -> 
+   ## Gowtham G -> https://www.linkedin.com/in/gowtham-govindhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
    
