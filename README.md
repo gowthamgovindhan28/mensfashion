@@ -5,7 +5,7 @@
 
 demo video for this Project: -> https://drive.google.com/file/d/1tc7loq4y9nDsK2w1eJFqek2Xft7zVc1W/view?usp=drivesdk
 
-This is an E-Commerce Website build for selling of Clothes for mens online.
+> This is an E-Commerce Website build for selling of Clothes for mens online.
 
 
 ## About:
@@ -47,12 +47,12 @@ This is an E-Commerce Website build for selling of Clothes for mens online.
 - Servlet
 - JSP
 
-*Database:*
+### Database:
 - MySQL
 
 
 
-*Software and Tools Required:*
+## Software and Tools Required:
 
 1. *Git:*
    - Download link: [Git](https://git-scm.com/downloads)
